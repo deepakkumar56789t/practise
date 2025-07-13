@@ -1,0 +1,191 @@
+
+Data Structure & Algorithms
+
+Array: An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together.
+
+Questions on Array DSA
+
+Wave Array	Solve
+Subarray with given sum	Solve
+Majority Element	Solve
+Peak element	Solve
+Three Sum Closest	Solve
+Number of subarrays having sum exactly equal to k	Solve
+Kadane's Algorithm	Solve
+Find the element that appears once	Solve
+Find the minimum element in a sorted and rotated array	Solve
+Search a Word in a 2D Grid of characters	Solve
+Max sum of M non-overlapping subarrays of size K	Solve
+Find Surpasser Count of each element in array	Solve
+Smallest Absolute Difference	Solve
+Sum of bit differences among all pairs	Solve
+Count More than n/k Occurrences	Solve
+Capacity To Ship Packages Within D Days	Solve
+
+String: Strings are defined as an array of characters. The difference between a character array and a string is the string is terminated with a special character ‘\0’.
+
+Questions on String DSA
+
+Valid Expression	Solve
+Multiply Large Numbers represented as Strings	Solve
+Minimum indexed character	Solve
+Find Maximum number possible by doing at-most K swaps	Solve
+How to replace a substring of a string	Solve
+Uncommon characters	Solve
+License Key Formatting	Solve
+Minimum insertions to form a palindrome	Solve
+Longest Repeating Subsequence	Solve
+Alien Dictionary	Solve
+Anagram Palindrome	Solve
+Longest Palindromic Substring	Solve
+Rabin-Karp Algorithm for Pattern Searching	Solve
+Longest prefix which is also suffix	Solve
+
+
+Linked List: A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations.
+
+Questions on Linked List DSA
+
+Nth node from end of linked list	Solve
+Reverse a linked list	Solve
+Detect loop in a linked list	Solve
+Delete a Node from linked list without head pointer	Solve
+Find length of Loop	Solve
+Insert in a Sorted List	Solve
+Pairwise Swap Nodes of a given Linked List	Solve
+Sort a linked list of 0s, 1s and 2s	Solve
+Reverse a sublist of a linked list	Solve
+
+Stack and Queue:
+Stack: A stack is a linear data structure in which elements can be inserted and deleted only from one side of the list, called the top. A stack follows the LIFO (Last In First Out) principle.
+Queue: A queue is a linear data structure in which elements can be inserted only from one side of the list called rear, and the elements can be deleted only from the other side called the front. The queue data structure follows the FIFO (First In First Out) principle.
+
+Questions on Stack and Queue DSA
+
+The Celebrity Problem	Solve
+Maximum Rectangular Area in a Histogram	Solve
+Max rectangle	Solve
+Length of the longest valid substring	Solve
+Find the first circular tour that visits all petrol pumps	Solve
+LRU Cache Implementation	Solve
+Minimum time required to rot all oranges	Solve
+Sliding Window Maximum (Maximum of all subarrays of size k)	Solve
+
+
+Searching: Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored.
+
+Questions on Searching DSA
+
+Subarray with given sum	Solve
+Kth smallest element	Solve
+Find a peak element	Solve
+Search in a Rotated Array	Solve
+The Painter's Partition Problem-II	Solve
+Minimum number of times A has to be repeated such that B is a substring of it	Solve
+Koko Eating Bananas	Solve
+Next greater number set digits	Solve
+Median of 2 Sorted Arrays of Different Sizes	Solve
+Maximum no of 1's row	Solve
+Elements in the Range	Solve
+
+
+Sorting: A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements. The comparison operator is used to decide the new order of elements in the respective data structure.
+
+Questions on Sorting DSA
+
+Floor in a Sorted Array	Solve
+Find all triplets with zero sum	Solve
+Count Inversions	Solve
+Sort an array of 0s, 1s and 2s	Solve
+Minimum Platforms	Solve
+Count the number of possible triangles	Solve
+At least two greater elements	Solve
+Maximum Intervals Overlap	Solve
+Next Greater Even Number	Solve
+Count Smaller elements	Solve
+Chocolate Distribution Problem	Solve
+
+
+Hash and Heap:
+
+Hash: Hashing is a technique or process of mapping keys, and values into the hash table by using a hash function. It is done for faster access to elements. The efficiency of mapping depends on the efficiency of the hash function used
+Heap: A Heap is a special Tree-based data structure in which the tree is a complete binary tree. Heap and hash is an efficient implementation of a priority queue. The linear hash function monotonically maps keys to buckets, and each bucket is a heap.
+
+Questions on Hash and Heap DSA
+
+Count pairs with given sum	Solve
+Longest Consecutive Subsequence	Solve
+Triplet Sum in Array	Solve
+Largest subarray of 0's and 1's	Solve
+Find median in a stream	Solve
+Longest K unique characters substring	Solve
+Winner of an election	Solve
+Binary Heap Operations	Solve
+Kth element in Matrix	Solve
+Game with String	Solve
+Rearrange characters	Solve
+
+
+Trees: A tree is non-linear and a hierarchical data structure consisting of a collection of nodes such that each node of the tree stores a value, a list of references to nodes (the “children”). :
+
+Questions on Trees DSA
+
+Print leaf nodes from preorder traversal of BST	Solve
+Height of Binary Tree	Solve
+ZigZag Tree Traversal	Solve
+Left View of Binary Tree	Solve
+Boundary Traversal of binary tree	Solve
+Lowest Common Ancestor in a Binary Tree	Solve
+Bottom View of Binary Tree	Solve
+Mirror Tree	Solve
+Sorted Link List to BST	Solve
+k-th smallest element in BST	Solve
+Merge two BST 's	Solve
+Maximum path sum from any node	Solve
+Maximum sum of Non-adjacent nodes	Solve
+Root to leaf paths sum	Solve
+Maximum Path Sum between 2 Leaf Nodes	Solve
+Count BST nodes that lie in a given range	Solve
+Connect Nodes at Same Level	Solve
+
+
+Graph: A Graph is a non-linear data structure consisting of nodes and edges. The nodes are sometimes also referred to as vertices and the edges are lines or arcs that connect any two nodes in the graph.
+
+Questions on Graph DSA
+
+Dijkstra’s shortest path algorithm	Solve
+Find the number of islands	Solve
+Unit Area of largest region of 1's	Solve
+Word Boggle	Solve
+Prerequisite Tasks	Solve
+Flood fill Algorithm	Solve
+X Total Shapes	Solve
+Number of Provinces	Solve
+Word Ladder I	Solve
+Knight Walk	Solve
+Course Schedule	Solve
+Assignment Problem	Solve
+Clone Graph	Solve
+Find the String	Solve
+
+
+Dynamic Programming: Dynamic Programming is mainly an optimization over plain recursion. Wherever we see a recursive solution that has repeated calls for same inputs, we can optimize it using Dynamic Programming.
+
+Questions on Dynamic Programming DSA
+
+Trapping Rain Water	Solve
+Maximum Product Subarray	Solve
+Stock buy and sell	Solve
+Interleaved Strings	Solve
+Stickler Thief	Solve
+Smallest window in a string containing all the characters of another string	Solve
+Max rectangle	Solve
+Activity Selection	Solve
+Jump Game	Solve
+Knapsack with Duplicate Items	Solve
+Wildcard Pattern Matching	Solve
+Total Decoding Messages	Solve
+Matrix Chain Multiplication	Solve
+Count occurences of a given word in a 2-d array	Solve
+Brackets in Matrix Chain Multiplication	Solve
+Burst Balloon to maximize coins	Solve
